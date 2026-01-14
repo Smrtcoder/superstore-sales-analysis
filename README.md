@@ -51,10 +51,9 @@ The dashboard is designed for quick interpretation by non-technical stakeholders
 ---
 
 ## 📌 Recommendations
-
-- Prioritize higher-margin product categories such as Technology to maximize revenue and profitability.
-- Review underperforming regions to optimize discount strategies and reduce shipping or operational costs.
-- Increase inventory planning and marketing efforts ahead of peak months, particularly November, to capture seasonal demand.
+-Prioritize higher-margin product categories such as Technology to maximize revenue and profitability.
+-Review underperforming regions to optimize discount strategies and reduce shipping/operational costs.
+-Increase inventory planning and marketing ahead of peak months (especially November) to capture seasonal demand.
 
 ---
 
