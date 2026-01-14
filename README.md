@@ -10,61 +10,64 @@ https://docs.google.com/spreadsheets/d/1SVGEwNMmcsMew8quy0zfvnIGHW22DttTsGcuZm_P
 
 ---
 
-## Project Overview
-This project analyzes retail sales data from a large superstore to identify revenue trends, profitability drivers, and opportunities for business optimization. The goal was to simulate a real-world data analyst workflow: cleaning raw data, performing exploratory analysis, and communicating actionable insights to stakeholders through a clear dashboard.
+# Superstore Sales Performance Analysis
+
+This project analyzes retail sales and profitability data to uncover revenue trends, profit drivers, and seasonal patterns that support business decision-making.
+
+The analysis demonstrates practical data analytics skills including data preparation, pivot table analysis, dashboard design, and insight generation using Excel / Google Sheets.
 
 ---
 
-## Business Questions
-- Which product categories generate the most revenue and profit?
-- How do sales and profits trend over time?
-- Are there regional differences in performance?
-- Which areas underperform despite strong sales volume?
-- What data-driven actions could improve profitability?
+## 🔍 Business Questions Addressed
+
+This analysis answers key business questions such as:
+1. Which product categories generate the most revenue?
+2. Which regions are the most and least profitable?
+3. How do sales trends change over time?
+4. What actions can improve profitability and operational performance?
 
 ---
 
-## Dataset
-- Source: Sample Superstore dataset
-- Records: ~9,900 orders
-- Time Period: 2014–2017
+## 📊 Dashboard Overview
+
+The final dashboard summarizes:
+- **Total Sales**
+- **Total Profit**
+- **Total Orders**
+- Sales by product category
+- Profit by region
+- Monthly sales trends
+
+The dashboard is designed for quick interpretation by non-technical stakeholders.
 
 ---
 
-## Tools Used
-- Google Sheets – data cleaning, pivot tables, KPI creation
-- Data Visualization – charts and dashboard design
+## 💡 Key Insights
+
+- **Technology** is the top revenue-generating product category across the dataset.
+- The **West region** is the most profitable, outperforming other regions in total profit.
+- Sales consistently **peak in November**, indicating strong seasonality tied to year-end purchasing.
 
 ---
 
-## Data Cleaning & Preparation
-- Removed duplicate records
-- Standardized date formats
-- Created calculated fields for monthly analysis
-- Ensured consistent structure for pivot table analysis
+## 📌 Recommendations
+
+- Prioritize higher-margin product categories such as Technology to maximize revenue and profitability.
+- Review underperforming regions to optimize discount strategies and reduce shipping or operational costs.
+- Increase inventory planning and marketing efforts ahead of peak months, particularly November, to capture seasonal demand.
 
 ---
 
-## Key Insights
-- Technology products generated the highest revenue, though profitability varied by region.
-- Furniture showed strong sales volume but lower profit margins in several regions.
-- Sales consistently peaked toward the end of the year, indicating strong seasonality.
-- Some regions and categories underperformed despite high order volume.
+## 🛠 Tools & Techniques Used
+
+- Excel / Google Sheets
+- Pivot Tables
+- Charts (Bar and Line Charts)
+- KPI Reporting
+- Business Insight Analysis
 
 ---
 
-## Recommendations
-- Reallocate focus toward higher-margin product categories.
-- Review pricing, discounting, and shipping strategies in low-profit regions.
-- Plan inventory and marketing efforts ahead of Q4 seasonal demand.
-- Monitor underperforming categories to reduce margin erosion.
+## 🚀 About the Analyst
 
----
-
-## Outcome
-This project demonstrates the ability to transform raw data into meaningful business insights and communicate findings clearly through dashboards and written analysis—core skills required for a junior data analyst or reporting analyst role.
-
----
-
-## Author
-Hayward Collins
+I specialize in Excel-based data analysis and reporting, focusing on transforming raw business data into clear, actionable insights. I am actively pursuing remote data analyst, reporting analyst, and contract analytics opportunities.
